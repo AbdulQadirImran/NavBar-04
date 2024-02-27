@@ -1,4 +1,7 @@
-# CSS :has OS Dock with CSS Trigonometric Functions 🤙
+# NavBar 04 📋
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/jh3y/pen/GRwwWoV](https://codepen.io/jh3y/pen/GRwwWoV).
+## Overview 🌟
+In this repository, you'll find a sleek and versatile navbar component that I've crafted with love and attention to detail. 🤙
+
+Made by **Abdul Qadir Azam 🚀**
 
